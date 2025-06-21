@@ -1,0 +1,29 @@
+# SENSITIVE CREDENTIALS
+credentials.json
+token.json
+
+# MODEL & DATA FILES
+/models/*.pkl
+/data/*.csv
+/email_data.db
+
+# PYTHON CACHE
+__pycache__/
+*.py[cod]
+
+# VIRTUAL ENVIRONMENTS
+env/
+venv/
+.venv/
+
+# JUPYTER NOTEBOOK JUNK
+.ipynb_checkpoints/
+
+# TEMP FILES & SYSTEM FILES
+*.log
+*.tmp
+.DS_Store
+
+# IDE CONFIG (Optional)
+.vscode/
+.idea/
