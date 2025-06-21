@@ -26,11 +26,11 @@ email-categorization-tool/
 │   ├── preprocess.py       # Cleans and preprocesses email content
 │   ├── model.py            # ML model training and prediction
 │   ├── database.py         # Stores results in SQLite
+│   ├──  train.py           # Script to train model using labeled data
 │   └── __init__.py
 ├── models/                 # Trained model artifacts (.pkl files)
 ├── data/                   # Labeled data and prediction results
 ├── notebooks/              # Jupyter notebooks (optional)
-├── train.py                # Script to train model using labeled data
 ├── requirements.txt        # All Python dependencies
 ├── .gitignore              # Prevents sensitive files from being committed
 ├── README.md               # Project documentation
