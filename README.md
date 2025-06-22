@@ -1,6 +1,7 @@
 # 📬 Email Categorization Tool
 
 A complete end-to-end Python application that connects to your Gmail account, fetches your emails via the Gmail API, applies natural language processing (NLP) to the email content, and classifies them into predefined categories like Work, Personal, Promotions, Finance, Travel, and more. The tool outputs data suitable for visualization in tools like Tableau or Google Looker Studio.
+The underlying algorithm deployed in this system is analogous to the categorization mechanisms observed in Gmail, iCloud Mail, and other email services. 
 
 ---
 
